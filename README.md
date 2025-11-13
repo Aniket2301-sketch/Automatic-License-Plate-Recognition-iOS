@@ -64,7 +64,7 @@ You can visit our `YouTube` video for `ANPR/ALPR` model's performance [here](htt
 [![ANPR/ALPR Demo](https://img.youtube.com/vi/sLBYxgMdXlA/0.jpg)](https://www.youtube.com/watch?v=sLBYxgMdXlA)</br>
 
 ## SDK License
-- The code line below shows how to update `SDK` with the `license key`: https://github.com/kby-ai/Automatic-License-Plate-Recognition-Android/blob/059b471d20d3392880ace352770f2fd4d43ff515/app/src/main/java/com/kbyai/alpr/MainActivity.kt#L42-L49
+- The code line below shows how to update `SDK` with the `license key`: https://github.com/kby-ai/Automatic-License-Plate-Recognition-iOS/blob/491bcd3d6df41d705fac8147adb04c5ae035ac14/ALPRDemo/ViewController.swift#L35-L40
 - To request `license key`, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
@@ -75,17 +75,19 @@ You can visit our `YouTube` video for `ANPR/ALPR` model's performance [here](htt
 ## About SDK
 
 ### 1. Set up
-#### 1.1 Setting Up `ALPR` SDK
-  > Android
-  - Copy the SDK(folder `libttvalpr`) to `root` folder in your `Android` project.
-  - Add SDK to the project in `settings.gradle`.
-  ```bash
-  include ':libttvalpr'
-  ```
-#### 1.2 Add dependency to your `build.gradle`.
-  ```bash
-    implementation project(path: ':libttvalpr')
-  ```
+1. Copy the `SDK` library (`alprsdk.framework` folder) and pre-built `onnxruntime` library (`onnxruntime.framework` folder) to the `root` folder in your project.
+
+2. Add `alprsdk.framework` and `onnxruntime.framework` to your project in `Xcode`.
+
+> Project Navigator -> General -> Frameworks, Libraries, and Embedded Content
+
+![image](https://github.com/user-attachments/assets/83717e85-0613-40f7-ae8e-f709b85bb314)
+
+3. Add the bridging header to your project settings
+
+> Project Navigator -> Build Settings -> Swift Compiler - General
+
+![image](e387323f0919.png)
 
 ### 2 API Usages
   - Activate the `SDK` by calling the `setActivation` method:
