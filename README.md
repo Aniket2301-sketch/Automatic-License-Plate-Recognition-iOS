@@ -95,7 +95,7 @@ You can visit our `YouTube` video for `ANPR/ALPR` model's performance [here](htt
   ```swift
     var ret = ALPRSDK.setActivation("xxx...")
   ```
-  - Get license number and its coordinates by calling the `processImage` method:
+  - Get license plate number and its coordinates by calling the `processImage` method:
   ```swift
     let processImage = pickedImage.fixOrientation()
     let alprBoxes = ALPRSDK.processImage(processImage) as! [ALPRBox];
